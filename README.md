@@ -47,7 +47,7 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="www.linkedin.com/in/vishal-patidar"><img src="https://img.shields.io/badge/-vishal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vishal-patidar"><img src="https://img.shields.io/badge/-vishal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vishalpatidar7937@gmail.com"><img src="https://img.shields.io/badge/-vishalpatidar7937@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/VishalP73720267"><img src="https://img.shields.io/badge/-@vishal-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
