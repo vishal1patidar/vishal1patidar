@@ -37,8 +37,8 @@
 
 <p align="center">
 <a href="https://github.com/vishal1patidar">
-  <img width="300em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="300em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal1patidar&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal1patidar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
