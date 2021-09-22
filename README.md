@@ -51,6 +51,4 @@
 <a href="mailto:vishalpatidar7937@gmail.com"><img src="https://img.shields.io/badge/-vishalpatidar7937@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/VishalP73720267"><img src="https://img.shields.io/badge/-@vishal-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-dsfsdfs
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&" alt="vivek9patel" /></p> 
