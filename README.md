@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm vishal patidar</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px"> I'm vishal patidar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 	
 <p align="center">
