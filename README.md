@@ -52,3 +52,7 @@
 <a href="https://twitter.com/VishalP73720267"><img src="https://img.shields.io/badge/-@vishal-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&" alt="vishal" /></p> 
+
+
+![Vishal github activity graph](https://activity-graph.herokuapp.com/graph?username=vishal1patidar&bg_color=91e73e&color=f60404&line=ffffff&point=1a6aff&area=true&hide_border=true)
+
