@@ -33,6 +33,10 @@
 
 <br/>
 
+<p align="center">
+    <a href="https://github.com/vishal1patidar"><img src= "https://github.com/vishal1patidar/vishal1patidar/blob/output/github-contribution-grid-snake.gif"/></a> 
+</p>
+
 ### ⚙️👀 &nbsp;GitHub Analytics
 
 <p align="center">
@@ -48,9 +52,9 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://linkedin.com/in/vishal-patidar" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>
-<a href="mailto:vishalpatidar7937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
-<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>        
+<a href="https://linkedin.com/in/vishal-patidar" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="7%" alt="Linkedin"></a>
+<a href="mailto:vishalpatidar7937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="7%" alt="Email"></a>
+<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="7%"></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="7%"></a>        
 
 <p/>
       
