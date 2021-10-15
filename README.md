@@ -1,8 +1,9 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px"> I'm vishal patidar</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px"> I'm Vishal Patidar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
-	
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=flat">
 </p>
@@ -11,9 +12,7 @@
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 📫 How to reach me **vishalpatidar7937@gmail.com**
-
-- 🌱  Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>
+- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>
 
 	
 ### 🛠 &nbsp;Languages and Tools
@@ -34,26 +33,42 @@
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️👀 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/vishal1patidar">
-  <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal1patidar&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="47%" height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="47%" height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal1patidar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br>
+
+
+<h3 align="center">Connect with me 🤝</h3>
+<body>
+    <div class="img1">
+<p align='center'>
+<a href="https://linkedin.com/in/vishal-patidar" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>
+<a href="mailto:vishalpatidar7937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
+<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>        
+
+<p/>
+      
+</div>
+</body>
+
+<br>
+
+
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="70%" /></p> 
+
+
+<p align="center">
+<a href="https://github.com/vishal1patidar/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=vishal1patidar&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/vishal-patidar"><img src="https://img.shields.io/badge/-vishal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vishalpatidar7937@gmail.com"><img src="https://img.shields.io/badge/-vishalpatidar7937@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/VishalP73720267"><img src="https://img.shields.io/badge/-@vishal-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&" alt="vishal" /></p> 
-
-
-![Vishal github activity graph](https://activity-graph.herokuapp.com/graph?username=vishal1patidar&bg_color=91e73e&color=f60404&line=ffffff&point=1a6aff&area=true&hide_border=true)
-
+</br>
