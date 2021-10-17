@@ -1,11 +1,9 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px"> I'm Vishal Patidar</h1>
-<h3 align="center">A passionate computer science student from India</h3>
-
-
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Vishal Patidar</h1>
+<h2 align="center">A passionate computer science student from India</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=">
 </p>
 
 - 🌱 I’m currently learning **javascript,nodejs,angular etc.**
@@ -37,13 +35,12 @@
     <a href="https://github.com/vishal1patidar"><img src= "https://github.com/vishal1patidar/vishal1patidar/blob/output/github-contribution-grid-snake.gif"/></a> 
 </p>
 
-### ⚙️👀 &nbsp;GitHub Analytics
+### ⚙️👀  &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/vishal1patidar">
-  <img width="47%" height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="47%" height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal1patidar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
 </p>
 <br>
 
@@ -66,7 +63,7 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="70%" /></p> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="60%" /></p> 
 
 
 <p align="center">
