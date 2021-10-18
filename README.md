@@ -39,9 +39,7 @@
 
 <p align="center">
 <a href="https://github.com/vishal1patidar">
-  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- 
-</p>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="60%"/></p>
 <br>
 
 
