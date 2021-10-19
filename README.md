@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=">
 </p>
+<p align="center">
+<img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
 
 - 🌱 I’m currently learning **javascript,nodejs,angular etc.**
 
@@ -64,6 +66,16 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="60%" /></p> 
 
 
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Evernote&show_icons=true&theme=jolly"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Meditation-with-me- &show_icons=true&theme=jolly"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Fun-with-Cards&show_icons=true&theme=jolly"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Sahyog&show_icons=true&theme=jolly">
+</div>
+
+
 <p align="center">
 <a href="https://github.com/vishal1patidar/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=vishal1patidar&theme=react-dark&area=true&hide_border=true" width="100%">
@@ -71,3 +83,31 @@
 </p>
 
 </br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
