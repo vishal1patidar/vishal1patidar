@@ -76,11 +76,6 @@
 </div>
 
 
-<p align="center">
-<a href="https://github.com/vishal1patidar/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=vishal1patidar&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
 
 </br>
 
