@@ -69,10 +69,12 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=spirit-dive&show_icons=true&theme=jolly"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Evernote&show_icons=true&theme=jolly"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Meditation-with-me- &show_icons=true&theme=jolly"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Meditation-with-me-&show_icons=true&theme=jolly"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Fun-with-Cards&show_icons=true&theme=jolly"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Sahyog&show_icons=true&theme=jolly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=LGMVIP-WebDev&show_icons=true&theme=jolly"> 
 </div>
 
 
