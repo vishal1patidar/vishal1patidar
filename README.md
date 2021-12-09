@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>
+- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>     <a href="https://leetcode.com/vppatidar789/">LeetCode</a>
 
 	
 ### 🛠 &nbsp;Languages and Tools
