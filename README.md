@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="https://github.com/vishal1patidar">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="60%"/></p>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="50%"/></p>
 <br>
 
 
@@ -47,9 +47,9 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://linkedin.com/in/vishal-patidar" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="7%" alt="Linkedin"></a>
-<a href="mailto:vishalpatidar7937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="7%" alt="Email"></a>
-<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="7%"></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="7%"></a>        
+<a href="https://linkedin.com/in/vishal-patidar" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
+<a href="mailto:vishalpatidar7937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
+<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>        
 
 <p/>
       
@@ -58,24 +58,7 @@
 
 <br>
 
-
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="60%" /></p> 
-
-
-### Recent Projects 👨‍💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=spirit-dive&show_icons=true&theme=jolly"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Evernote&show_icons=true&theme=jolly"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Meditation-with-me-&show_icons=true&theme=jolly"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Fun-with-Cards&show_icons=true&theme=jolly"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=Sahyog&show_icons=true&theme=jolly">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal1patidar&repo=LGMVIP-WebDev&show_icons=true&theme=jolly"> 
-</div>
-
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="50%" /></p> 
 
 </br>
 
