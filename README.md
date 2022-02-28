@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
 
-- 🌱 I’m currently learning **javascript,nodejs,angular etc.**
+- 🌱 I’m currently learning **javascript,nodejs,angular,React etc.**
 
 - 💬 Ask me about **Javascript** & **CSS**
 
