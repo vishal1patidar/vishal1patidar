@@ -1,19 +1,17 @@
 
 
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Vishal Patidar</h1>
-<h2 align="center">A passionate computer science student from India</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=">
-</p>
-<p align="center">
-<img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
 
-- 🌱 I’m currently learning **nodejs,React etc.**
+<h2 align="center">A passionate computer science student from India</h2>
+
+- I love❤ to make **exciting projects**. <br/>
+
+- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>     <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
-
+- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
+---
 	
 ### 🛠 &nbsp;Languages and Tools
 
@@ -31,45 +29,33 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/vishal1patidar"><img src= "https://github.com/vishal1patidar/vishal1patidar/blob/output/github-contribution-grid-snake.gif"/></a> 
-</p>
 
-### ⚙️👀  &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/vishal1patidar">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="50%"/></p>
-<br>
-
-
+|[![analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/vishal1patidar) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/>|
+|---|---|
+---
 <h3 align="center">Connect with me 🤝</h3>
 <body>
     <div class="img1">
 <p align='center'>
 <a href="https://linkedin.com/in/vishal-patidar" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
 <a href="mailto:vishalpatidar7937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
-<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>        
-
-<p/>
-      
-</div>
-</body>
-
+<a href="https://t.me/vishu_patidar78" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   <a href="https://twitter.com/VishalP73720267" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>   
+	
 <br>
+<br>
+<div align="center">
+    <a href="https://github.com/vishal1patidar"><img src= "https://github.com/vishal1patidar/vishal1patidar/blob/output//github-contribution-grid-snake.gif"/></a> 
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="vishal" width="50%" /></p> 
-
-</br>
-
-
-
-
-
-
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=">
 
 
-
+<img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
+</div>	   	    
+	    
+Leave a ⭐ from [here](https://github.com/Nishant-Bhosale/vishal1patidar) if you like 😁
 
 
 
