@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
 </div>	   	    
 	    
-Leave a ⭐ from [here](https://github.com/Nishant-Bhosale/vishal1patidar) if you like 😁
+Leave a ⭐ from [here](https://github.com/vishal1patidar/vishal1patidar) if you like 😁
 
 
 
