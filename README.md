@@ -43,9 +43,7 @@
 	
 <br>
 <br>
-<div align="center">
-    <a href="https://github.com/vishal1patidar"><img src= "https://github.com/vishal1patidar/vishal1patidar/blob/output//github-contribution-grid-snake.gif"/></a> 
-</div>
+
 
 ---
 <div align="center">
