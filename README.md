@@ -30,9 +30,8 @@
 <br/>
 
 
-|[![analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=vishal1patidar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/vishal1patidar) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/>|
-|---|---|
----
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
+
 <h3 align="center">Connect with me 🤝</h3>
 <body>
     <div class="img1">
