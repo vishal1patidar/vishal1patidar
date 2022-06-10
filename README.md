@@ -50,9 +50,23 @@
 
 
 <img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
-</div>	   	    
+</div>	  
+	
+	
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1patidar" alt="vishal1patidar" /></a> </p>
+
+[![vishal1patidar GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vishal1patidar&&theme=xcode)](https://github.com/vishal1patidar)
 	    
 Leave a ⭐ from [here](https://github.com/vishal1patidar/vishal1patidar) if you like 😁
+
+	
+	
+	
+	
+	
+
+
+
 
 
 
