@@ -30,6 +30,14 @@
 <br/>
 
 
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=vishal1patidar&show_icons=true&theme=dark&" alt="vishal1patidar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1patidar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vishal1patidar" /></td>
+  </tr>
+</table>
+
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
 
 <h3 align="center">Connect with me 🤝</h3>
@@ -42,6 +50,10 @@
 	
 <br>
 <br>
+	
+	
+	
+
 
 
 ---
