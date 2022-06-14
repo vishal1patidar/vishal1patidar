@@ -2,7 +2,12 @@
 
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Vishal Patidar</h1>
 
-<h2 align="center">A passionate computer science student from India</h2>
+
+
+<table>
+  <tr>
+    <td><img align="right" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/></td>
+    <td><h2 align="center">A passionate computer science student from India</h2>
 
 - I love❤ to make **exciting projects**. <br/>
 
@@ -11,7 +16,10 @@
 - 💬 Ask me about **Javascript** & **CSS**
 
 - 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
----
+
+	</td>
+  </tr>
+</table>
 	
 ### 🛠 &nbsp;Languages and Tools
 
@@ -31,6 +39,18 @@
 
 
 
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vishal1patidar&column=9&margin-w=1&margin-h=1&no-bg=true&no-frame=true&theme=juicyfresh)
+
+
+
+#
+
+
+
+
+
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=vishal1patidar&show_icons=true&theme=dark&" alt="vishal1patidar" /></td>
@@ -38,7 +58,7 @@
   </tr>
 </table>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=dark&hide_border=true"/> </div>
 
 <h3 align="center">Connect with me 🤝</h3>
 <body>
@@ -65,7 +85,7 @@
 </div>	  
 	
 	
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1patidar" alt="vishal1patidar" /></a> </p>
+
 
 [![vishal1patidar GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vishal1patidar&&theme=xcode)](https://github.com/vishal1patidar)
 	    
