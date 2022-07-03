@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
+- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://auth.geeksforgeeks.org/user/vishal1patidar">GfG</a>  ||  <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
 
 	</td>
   </tr>
