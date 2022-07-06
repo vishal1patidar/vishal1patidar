@@ -11,11 +11,11 @@
 
 - I love❤ to make **exciting projects**. <br/>
 
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
+- I really enjoy learning🚀 new languages and frameworks like **React⚛ <br/>
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **Javascript** & **DSA**
 
-- 👀 Cheak my  <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://auth.geeksforgeeks.org/user/vishal1patidar">GfG</a>  ||  <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
+- 👀 Cheak my   <a href="https://dribbble.com/vishal1patidar">Dribble</a>  || <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://auth.geeksforgeeks.org/user/vishal1patidar">GfG</a>  ||  <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
 
 	</td>
   </tr>
