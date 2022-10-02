@@ -43,22 +43,13 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vishal1patidar&column=9&margin-w=1&margin-h=1&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
-
-#
-
-
-
-
-
-
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vishal1patidar&show_icons=true&theme=dark&" alt="vishal1patidar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1patidar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vishal1patidar" /></td>
-  </tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=vishal1patidar&count_private=true&show_icons=true&theme=dark" width="450"></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&count_private=true&show_icons=true&theme=dark" width="450"></td>
+</tr>
 </table>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&show_icons=true&theme=dark&hide_border=true"/> </div>
 
 <h3 align="center">Connect with me 🤝</h3>
 <body>
@@ -84,10 +75,7 @@
 <img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
 </div>	  
 	
-	
 
-
-[![vishal1patidar GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vishal1patidar&&theme=xcode)](https://github.com/vishal1patidar)
 	    
 Leave a ⭐ from [here](https://github.com/vishal1patidar/vishal1patidar) if you like 😁
 
