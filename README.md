@@ -38,10 +38,13 @@
 <br/>
 
 
+<h2 align="left">Achievements:</h2>
 
+- Open Source Contributor(GsSoC,LGMSoC,GWoC,OpenForce)
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vishal1patidar&column=9&margin-w=1&margin-h=1&no-bg=true&no-frame=true&theme=juicyfresh)
+- Competitve Programmer(3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
 
+- Exploring DSA
 
 <table>
   <tr>
