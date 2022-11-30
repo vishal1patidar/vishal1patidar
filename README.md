@@ -40,7 +40,7 @@
 
 <h2 align="left">Achievements:</h2>
 
-- Open Source Contributor(GsSoC,LGMSoC,GWoC,OpenForce)
+- Open Source Contributor(GsSoC,LGMSoC,GWoC,Opensource)
 
 - Competitve Programmer(3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
 
