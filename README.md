@@ -1,17 +1,17 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Vishal Patidar</h1>
+<h1 align="center">Hello,there I'm Vishal Patidar</h1>
 
 
 
 <table>
   <tr>
-    <td><img align="right" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/></td>
-    <td><h2 align="center">A passionate computer science student from India</h2>
+    <td><img align="right" height="200px" width="225px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/></td>
+    <td><h3 align="center">I am a Computer Science student, Web developer & Flutter enthusiast.</h3>
 
 - I love❤ to make **exciting projects**. <br/>
 
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ <br/>
+- I really enjoy learning🚀 new languages and frameworks like **React⚛** <br/>
 
 - 💬 Ask me about **Javascript** & **DSA**
 
@@ -40,11 +40,13 @@
 
 <h2 align="left">Achievements:</h2>
 
-- Open Source Contributor(GsSoC,LGMSoC,GWoC,Opensource)
+- Open Source Contributor(LGMSoC,GWoC,Opensource)
 
 - Competitve Programmer(3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
 
 - Exploring DSA
+
+
 
 <table>
   <tr>
@@ -64,11 +66,6 @@
 	
 <br>
 <br>
-	
-	
-	
-
-
 
 ---
 <div align="center">
@@ -77,8 +74,6 @@
 
 <img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
 </div>	  
-	
-
 	    
 Leave a ⭐ from [here](https://github.com/vishal1patidar/vishal1patidar) if you like 😁
 
