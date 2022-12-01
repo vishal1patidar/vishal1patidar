@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Hello,there I'm Vishal Patidar</h1>
-
+<h1 align="center">Hello,there I'm  <a href="https://linkedin.com/in/vishal-patidar">Vishal Patidar</a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+%3A)" /> </h3>
 
 
 <table>
   <tr>
-    <td><img align="right" height="200px" width="225px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/></td>
-    <td><h3 align="center">I am a Computer Science student, Web developer & Flutter enthusiast.</h3>
+    <td><img align="right" height="250px" width="255px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/></td>
+    <td><h3 align="center">Learning does't stop✌️🫠</h3>
 
 - I love❤ to make **exciting projects**. <br/>
 
@@ -39,13 +39,20 @@
 
 
 <h2 align="left">Achievements:</h2>
+<table>
+<tr>
+<td>
 
-- Open Source Contributor(LGMSoC,GWoC,Opensource)
+<!-- - Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.  <br/> -->
 
-- Competitve Programmer(3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
+- Competitve Programmer **3🌟 LeetCode**, **5🌟 Hackerrank**, **NewBie Codeforces**  <br/>
+	
+- Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.
 
-- Exploring DSA
-
+- Exploring **DSA**
+</td>
+  </tr>
+</table>
 
 
 <table>
