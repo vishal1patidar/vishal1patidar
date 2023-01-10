@@ -60,12 +60,12 @@
 </table>
 
 
-<table>
-  <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=vishal1patidar&count_private=true&show_icons=true&theme=dark" width="450"></td>
-  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&count_private=true&show_icons=true&theme=dark" width="450"></td>
-</tr>
-</table>
+
+ 
+  
+ <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&count_private=true&show_icons=true&theme=dark" width="450">
+
+
 
 
 <h3 align="center">Connect with me 🤝</h3>
