@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Javascript** & **DSA**
 
-- 👀 Cheak my   <a href="https://dribbble.com/vishal1patidar">Dribble</a>  || <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://auth.geeksforgeeks.org/user/vishal1patidar">GfG</a>  ||  <a href="https://leetcode.com/vishal1patidar/">LeetCode</a>
+- 👀 Cheak my   <a href="https://dribbble.com/vishal1patidar">Dribble</a>  || <a href="https://codepen.io/Vishal68587">CodePen</a>  ||   <a href="https://auth.geeksforgeeks.org/user/vishal1patidar">GfG</a>  ||  <a href="https://leetcode.com/spyder_master/">LeetCode</a>
 
 	</td>
   </tr>
