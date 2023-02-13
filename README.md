@@ -48,7 +48,7 @@
 
 <!-- - Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.  <br/> -->
 
-- Competitve Programmer **3🌟LeetCode** *(Max Rating 1680)* , **5🌟Hackerrank** , **NewBie Codeforces**   <br/>
+- Competitve Programmer **3🌟LeetCode** *(Max Rating 1793)* , **5🌟Hackerrank** , **NewBie Codeforces**   <br/>
 	
 - Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.
 
@@ -89,8 +89,7 @@
 	    
 Leave a ⭐ from [here](https://github.com/vishal1patidar/vishal1patidar) if you like 😁
 
-	
-	
+
 	
 	
 	
