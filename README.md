@@ -48,7 +48,7 @@
 
 <!-- - Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.  <br/> -->
 
-- Competitve Programmer **3🌟LeetCode** *(Max Rating 1778)* , **5🌟Hackerrank** , **NewBie Codeforces**   <br/>
+- Competitve Programmer **3🌟LeetCode** *(Max Rating 1803)* , **5🌟Hackerrank** , **NewBie Codeforces**   <br/>
 	
 - Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.
 
