@@ -52,7 +52,7 @@
 	
 - Open Source Contributor **LGMSoC**,**GWoC**,**Opensource**.
 
-- 2nd Runner up in **Hack CBS 4.0**
+- 3rd Runner up in **Hack CBS 4.0**
 	
 - Exploring **DSA**
 </td>
