@@ -4,7 +4,8 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)" /> </h3>
 
 <div align="center">
-<img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=vishal1patidar&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
 </div>
 
 <table>
